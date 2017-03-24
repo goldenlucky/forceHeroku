@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datamap>
+	<table header="TRUE" mode="delete" sobject="Task__c">
+		<column csvfield="Task Name" key="true" sfield="Name" type="String"/>
+		<column csvfield="Content" key="false" sfield="Content__c" type="String" />
+		<column csvfield="Start" key="false" sfield="Start__c" type="Date"/>
+		<column csvfield="Finish" key="false" sfield="Finish__c" type="Date"/>
+		<column csvfield="Status" key="false" sfield="Status__c" type="String"/>
+	</table>
+</datamap>

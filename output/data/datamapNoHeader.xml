@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<datamap>
+	<table header="false" mode="Insert" sobject="/sobjects/Task__c/">
+		<column csvindex="1" key="true" sfield="Name" type="String"/>
+		<column csvindex="2" key="false" sfield="Content__c" type="String" />
+		<column csvindex="3" key="false" sfield="Start__c" type="Date"/>
+		<column csvindex="4" key="false" sfield="Finish__c" type="Date"/>
+		<column csvindex="5" key="false" sfield="Status__c" type="String"/>
+	</table>
+</datamap>
